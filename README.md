@@ -14,7 +14,7 @@ A PostgreSQL database to store detailed information about celestial bodies inclu
 - Git
 
 ## Database Schema
-![ER Diagram]()
+![ER Diagram](celestialBodies Schema.png)
 
 
 ## License
